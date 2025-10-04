@@ -1,2 +1,2 @@
 this is a duplicate of the project
-Welcome 
+Welcome to the latest one 
